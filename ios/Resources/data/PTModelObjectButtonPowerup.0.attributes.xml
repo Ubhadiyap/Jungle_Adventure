@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>123114</string>
+                <key>className</key>
+                <string>PTModelObjectButtonPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{494.129,575.887}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Powerup Selection</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>26400</string>
+                </dict>
+                <key>Label Offset</key>
+                <dict>
+                    <key>value</key>
+                    <string>{17.000,-25.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Label Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.200000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Layering</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAboveCharacter</string>
+                </dict>
+                <key>Max Refill</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Refill Timeout</key>
+                <dict>
+                    <key>value</key>
+                    <string>10.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>123763</string>
+                <key>className</key>
+                <string>PTModelObjectButtonPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{618.943,575.887}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Powerup Selection</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>119864</string>
+                </dict>
+                <key>Label Offset</key>
+                <dict>
+                    <key>value</key>
+                    <string>{17.000,-25.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Label Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.200000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Layering</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAboveCharacter</string>
+                </dict>
+                <key>Max Refill</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Refill Timeout</key>
+                <dict>
+                    <key>value</key>
+                    <string>10.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>3</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
